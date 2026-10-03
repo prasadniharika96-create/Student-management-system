@@ -1,7 +1,7 @@
 # Student-management-system
 # Student Management System 🎓
 
-A simple, menu-driven Student Management System built using Python. This project helps manage student records through a command-line interface.
+A simple, menu driven Student Management System built using Python. This project helps manage student records through a command line interface.
 
 Features
 
@@ -24,13 +24,13 @@ Features
 * Working with Python dictionaries
 * Managing records using roll numbers
 * Using loops and conditional statements
-* Building a menu-driven program
+* Building a menu driven program
 
 Future Improvements
 
 * Automatic percentage calculation
 * Grade calculation
-* Pass/Fail status
+* Pass or Fail status
 * Improved input validation
 
 
